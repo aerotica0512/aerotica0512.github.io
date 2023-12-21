@@ -1,0 +1,19 @@
+a:link {
+    color: #999900
+}
+
+a:visited {
+    color: #CC9966
+}
+
+a:hover {
+    color: #990066
+}
+
+a:active {
+    color: #990066
+}
+
+body {
+    color: #200000
+}
